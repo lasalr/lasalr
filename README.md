@@ -12,12 +12,13 @@
 - 👨‍💻 I’m also looking to work after completing my studies
 - 🥅 Current goal: Improve my Python programming skills and start using some Julia
 - 🕺🏽💃 I love ballroom and latin american dancing!
-- 📷 I also do a bit of photography [<img align="right" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lazshots/)
+- 📷 I also do a bit of photography
 
 ### Connect with me:
 
 [<img align="left" alt="lasalranasinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="HawkLaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="instagram @lazshots | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lazshots/)
 
 <br />
 
