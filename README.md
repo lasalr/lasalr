@@ -7,10 +7,7 @@
 #### Right now, I'm a graduate student in data science. I am a technology enthusiast and enjoy gathering and applying multidisciplinary knowledge.
 #### I have a Bachelor's degree in chemical & process engineering and work experience in business, lean management and analytics. I am also a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/]))
 
-- 🔭 I’m currently studying at [![Monash University](https://www.monash.edu/__data/assets/git_bridge/0006/509343/deploy/mysource_files/monash-logo-mono.svg) Monash University](https://www.monash.edu/)
-&nbsp;as a graduate student
-
-
+- 🔭 I’m currently studying at [Monash University](https://www.monash.edu/) as a graduate student
 - 🔬 These days I'm working on a research project on distributed machine learning using kernel machines 
 - 👨‍💻 I’m also looking to work after completing my studies
 - 🥅 Current goal: Improve my Python programming skills and start using some Julia
