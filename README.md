@@ -12,7 +12,7 @@
 - 👨‍💻 I’m also looking to work after completing my studies
 - 🥅 Current goal: Improve my Python programming skills and start using some Julia
 - 🕺🏽💃 I love ballroom and latin american dancing!
-- 📷 I also do a bit of photography [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/lazshots/]
+- 📷 I also do a bit of photography [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lazshots/)
 
 ### Connect with me:
 
@@ -23,13 +23,19 @@
 
 ### Languages and Tools:
 
-- Tableau [<img align="left" alt="Tableau visualisation" width="40px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/)
-- Microsoft Power BI [<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/)
-- Linux/Unix Scripting [<img align="left" alt="Linux and Unix scripting" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]
-- Python [<img align="left" alt="Python language" width="26px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/)
-- R [<img align="left" alt="R language" width="26px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
-- Microsoft Visual Basic for Applications 
-- Microsoft 365 (Word, PowerPoint, Excel) [<img align="left" alt="Microsoft Office 365" width="26px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/)
+[<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/)
+<!-- - Tableau [<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/) -->
+[<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/)
+<!-- - Microsoft Power BI [<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/) -->
+[<img align="left" alt="Linux and Unix scripting" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
+<!-- - Linux/Unix Scripting [<img align="left" alt="Linux and Unix scripting" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]() -->
+[<img align="left" alt="Python language" width="26px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/)
+<!-- - Python [<img align="left" alt="Python language" width="26px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/) -->
+[<img align="left" alt="R language" width="26px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
+<!-- - R [<img align="left" alt="R language" width="26px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/) -->
+<!-- - Microsoft Visual Basic for Applications  -->
+[<img align="left" alt="Microsoft Office 365" width="26px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/)
+<!-- - Microsoft 365 (Word, PowerPoint, Excel) [<img align="left" alt="Microsoft Office 365" width="26px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/) -->
 
 <br />
 <br />
