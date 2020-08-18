@@ -27,14 +27,14 @@
 <!-- - Tableau [<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/) -->
 [<img align="left" alt="Microsoft Power BI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/)
 <!-- - Microsoft Power BI [<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/) -->
-[<img align="left" alt="Linux and Unix scripting" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
+[<img align="left" alt="Linux and Unix scripting" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
 <!-- - Linux/Unix Scripting [<img align="left" alt="Linux and Unix scripting" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]() -->
-[<img align="left" alt="Python language" width="150px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/)
+[<img align="left" alt="Python language" width="180px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/)
 <!-- - Python [<img align="left" alt="Python language" width="26px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/) -->
-[<img align="left" alt="R language" width="40px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
+[<img align="left" alt="R language" width="50px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
 <!-- - R [<img align="left" alt="R language" width="26px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/) -->
 <!-- - Microsoft Visual Basic for Applications  -->
-[<img align="left" alt="Microsoft Office 365" width="150px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/)
+[<img align="left" alt="Microsoft Office 365" width="120px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/)
 <!-- - Microsoft 365 (Word, PowerPoint, Excel) [<img align="left" alt="Microsoft Office 365" width="26px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/) -->
 
 <br />
