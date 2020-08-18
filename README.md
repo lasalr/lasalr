@@ -1,8 +1,8 @@
 ### Hello, I'm Lasal, Welcome to my github page!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HawkLaZ?style=for-the-badge)](https://twitter.com/intent/user?screen_name=HawkLaZ)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HawkLaZ?style=for-the-badge)](https://twitter.com/intent/user?screen_name=HawkLaZ)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://au.linkedin.com/in/lasalranasinghe)
-&nbsp;
+&nbsp; -->
 
 #### Right now, I'm a graduate student in data science. I am a technology enthusiast and enjoy gathering and applying multidisciplinary knowledge. I have a Bachelor's degree in chemical & process engineering and work experience in business, lean management and analytics. I am also a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/]))
 
