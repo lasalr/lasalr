@@ -15,11 +15,10 @@
 - 📷 I also do a bit of photography
 
 ### Connect with me:
-
+[<img align="left" alt="hawklaz | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="lasalranasinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HawkLaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram @lazshots | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lazshots/)
-
 <br />
 
 ### Languages and Tools:
@@ -46,3 +45,4 @@
 <!-- [youtube]:  -->
 <!-- [instagram]: https://instagram.com/ -->
 [linkedin]: https://www.linkedin.com/in/lasalranasinghe/
+[stackoverflow]: https://stackoverflow.com/users/11542679/hawklaz
