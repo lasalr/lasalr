@@ -4,26 +4,26 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://au.linkedin.com/in/lasalranasinghe)
 &nbsp; -->
 
-#### Right now, I'm a graduate student in data science. I am a technology enthusiast and enjoy gathering and applying multidisciplinary knowledge.
-#### I have a Bachelor's degree in chemical & process engineering and work experience in business, lean management and analytics. I am also a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/))
+#### I'm qualified as a data scientist and currently looking for my next venture. Also, I am a heavy technology enthusiast and enjoy acquiring and applying multidisciplinary knowledge.
+#### I have a Bachelor's degree in chemical & process engineering and have worked in business, lean management and analytics for 5 years. I am also a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/))
 
-- 🔭 I’m currently studying at [Monash University](https://www.monash.edu/) as a graduate student
-- 🔬 These days I'm working on a research project on distributed machine learning using kernel machines 
-- 👨‍💻 I’m also looking to work after completing my studies
-- 🥅 Current goal: Improve my Python programming skills and start using some Julia
-- 🕺🏽💃 I love ballroom and latin american dancing!
+- 🔭 I completed my master of data science at [Monash University](https://www.monash.edu/)
+- 🔬 The highlight of my master's was my research on distributed machine learning for kernel methods 
+- 👨‍💻 Currently keeping an eye out for my next venture
+- 🥅 Current coding goal: Improve Python skills and start using some Julia
+- 🕺🏽💃 I love ballroom and Latin American dancing!
 - 📷 I also do a bit of photography
 
 ### Connect with me:
-[<img align="left" alt="hawklaz | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="lasalranasinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hawklaz | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="HawkLaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram @lazshots | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lazshots/)
 <br />
 
 ### Languages and Tools:
-
 [<img align="left" alt="Tableau visualisation" width="200px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/)
+[<img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />](https://www.tensorflow.org/)
 <!-- - Tableau [<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/) -->
 [<img align="left" alt="Microsoft Power BI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/)
 <!-- - Microsoft Power BI [<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/) -->
