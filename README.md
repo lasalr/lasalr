@@ -5,7 +5,8 @@
 &nbsp; -->
 
 #### I'm qualified as a data scientist and currently looking for my next venture. Also, I am a heavy technology enthusiast and enjoy acquiring and applying multidisciplinary knowledge.
-#### I have a Bachelor's degree in chemical & process engineering and have worked in business, lean management and analytics for 5 years. I am also a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/))
+#### I completed my Master of Data Science from Monash University, Australia.
+#### I have a Bachelor's degree in engineering and have worked in analytics and business process improvement for 5 years. I am also competent in finance as a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/))
 
 - 🔭 I completed my master of data science at [Monash University](https://www.monash.edu/)
 - 🔬 The highlight of my master's was my research on distributed machine learning for kernel methods 
