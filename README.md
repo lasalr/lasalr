@@ -23,7 +23,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Tableau visualisation" width="200px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/)
+[<img align="left" alt="Tableau visualisation" width="200px" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" />](https://www.tableau.com/)
 [<img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />](https://www.tensorflow.org/)
 <!-- - Tableau [<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/) -->
 [<img align="left" alt="Microsoft Power BI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/)
