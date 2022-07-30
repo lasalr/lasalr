@@ -26,7 +26,7 @@
 [<img align="left" alt="Tableau visualisation" width="200px" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" />](https://www.tableau.com/)
 [<img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />](https://www.tensorflow.org/)
 <!-- - Tableau [<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/) -->
-[<img align="left" alt="Microsoft Power BI" width="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/)
+[<img align="left" alt="Microsoft Power BI" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" />](https://powerbi.microsoft.com/)
 <!-- - Microsoft Power BI [<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/) -->
 [<img align="left" alt="Linux and Unix scripting" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
 <!-- - Linux/Unix Scripting [<img align="left" alt="Linux and Unix scripting" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]() -->
