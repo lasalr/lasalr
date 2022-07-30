@@ -35,7 +35,7 @@
 [<img align="left" alt="R language" width="50px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
 <!-- - R [<img align="left" alt="R language" width="26px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/) -->
 <!-- - Microsoft Visual Basic for Applications  -->
-[<img align="left" alt="Microsoft Office 365" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" />](https://www.office.com/)
+[<img align="left" alt="Microsoft Office 365" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" />](https://www.office.com/)
 <!-- - Microsoft 365 (Word, PowerPoint, Excel) [<img align="left" alt="Microsoft Office 365" width="26px" src="https://tr1.cbsistatic.com/hub/i/r/2020/04/27/02a8c5e8-83f9-422a-93d9-8d1fec2a190d/resize/1200x/2b88bc65e7b2d5461c4d7952d39e15cf/new-microsoft365-logo-horiz-c-gray-rgb.jpg" />](https://www.office.com/) -->
 
 <br />
