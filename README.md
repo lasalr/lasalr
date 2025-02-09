@@ -4,16 +4,13 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://au.linkedin.com/in/lasalranasinghe)
 &nbsp; -->
 
-#### I'm qualified as a data scientist and currently working as a Data Integration & BI Analyst. Also, I am a heavy technology enthusiast and enjoy acquiring and applying multidisciplinary knowledge.
-#### I completed my Master of Data Science from Monash University, Australia.
-#### I have a Bachelor's degree in engineering and have worked in analytics and business process improvement for 5 years. I am also competent in finance as a chartered global management accountant ([CIMA](https://www.cimaglobal.com/), [AICPA](https://www.aicpa-cima.com/), [CPA](https://www.cpaaustralia.com.au/))
+#### I'm qualified as a data scientist and currently working as a Senior Professional. Also, I am a heavy technology enthusiast and enjoy acquiring and applying multidisciplinary knowledge.
+#### I completed my Master of Data Science from Monash University, Australia where I was involved in cutting edge distrubuted machine learning research.
+#### I bring around 10 years of experience in manufacturing and retail
 
 - 🔭 I completed my master of data science at [Monash University](https://www.monash.edu/)
-- 🔬 The highlight of my master's was my research on distributed machine learning for kernel methods 
-- 👨‍💻 Currently keeping an eye out for my next venture
-- 🥅 Current coding goal: Improve Python skills and start using some Julia
-- 🕺🏽💃 I love ballroom and Latin American dancing!
-- 📷 I also do a bit of photography
+- 🔬 The highlight of my master's was my research on distributed machine learning for kernel methods
+- 🥾🏞️ I enjoy trekking and some light hiking in my free time and love a good roadtrip
 
 ### Connect with me:
 [<img align="left" alt="lasalranasinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
