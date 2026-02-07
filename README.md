@@ -1,46 +1,65 @@
-### Hello, I'm Lasal. Welcome to my github page!
+## Hi, I’m Lasal 👋
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HawkLaZ?style=for-the-badge)](https://twitter.com/intent/user?screen_name=HawkLaZ)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://au.linkedin.com/in/lasalranasinghe)
-&nbsp; -->
+Senior Data & Business Intelligence Engineer based in Sydney, Australia.
 
-#### I'm qualified as a data scientist and currently working as a Senior Professional. Also, I am a heavy technology enthusiast and enjoy acquiring and applying multidisciplinary knowledge.
-#### I completed my Master of Data Science from Monash University, Australia where I was involved in cutting edge distrubuted machine learning research.
-#### I bring around 10 years of experience in manufacturing and retail
+I specialise in building **enterprise analytics platforms**, **data integration pipelines**, and **business intelligence solutions** using Oracle Cloud technologies. I currently work in a senior data engineering role delivering scalable analytics solutions for large retail environments, supporting business-critical reporting and decision-making.
 
-- 🔭 I completed my master of data science at [Monash University](https://www.monash.edu/)
-- 🔬 The highlight of my master's was my research on distributed machine learning for kernel methods
-- 🥾🏞️ I enjoy trekking and some light hiking in my free time and love a good roadtrip
+### 👨‍💻 What I work on
 
-### Connect with me:
-[<img align="left" alt="lasalranasinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hawklaz | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="HawkLaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="instagram @lazshots | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lazshots/)
-<br />
+- Enterprise Data Engineering (ETL / ELT pipelines)
+- Oracle Cloud Infrastructure (OCI)
+- Oracle Data Integrator (ODI) & Oracle Integration Cloud (OIC)
+- Oracle Autonomous Data Warehouse
+- Business Intelligence & Analytics (semantic models, dashboards, self-service analytics)
+- SQL performance tuning and data modelling
+- Production analytics platforms and operational support
+- Agile delivery with business stakeholders
 
-### Languages and Tools:
-[<img align="left" alt="Tableau visualisation" width="200px" src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Logo.png" />](https://www.oracle.com/au/cloud/)
-[<img align="left" alt="Tableau visualisation" width="200px" src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" />](https://www.tableau.com/)
-[<img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />](https://www.tensorflow.org/)
-<!-- - Tableau [<img align="left" alt="Tableau visualisation" width="80px" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" />](https://www.tableau.com/) -->
-[<img align="left" alt="Microsoft Power BI" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest?cb=20200929195935" />](https://powerbi.microsoft.com/)
-<!-- - Microsoft Power BI [<img align="left" alt="Microsoft Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />](https://powerbi.microsoft.com/) -->
-[<img align="left" alt="Linux and Unix scripting" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
-<!-- - Linux/Unix Scripting [<img align="left" alt="Linux and Unix scripting" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]() -->
-[<img align="left" alt="Python language" width="180px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/)
-<!-- - Python [<img align="left" alt="Python language" width="26px" src="https://www.python.org/static/img/python-logo.png" />](https://www.python.org/) -->
-[<img align="left" alt="R language" width="50px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/)
-<!-- - R [<img align="left" alt="R language" width="26px" src="https://www.r-project.org/Rlogo.png" />](https://www.r-project.org/) -->
+I enjoy translating complex business requirements into reliable, governed analytics solutions that enable stakeholders to access trusted data.
 
+---
 
+### 🎓 Background
 
-<br />
-<br />
+- Master of Data Science – Monash University (Australia)  
+- Bachelor of Engineering  
+- 10+ years experience across retail and manufacturing analytics  
 
-<!-- [website]: https://lasalr.github.io/ -->
-[twitter]: https://twitter.com/HawkLaZ
-<!-- [youtube]:  -->
-<!-- [instagram]: https://instagram.com/ -->
-[linkedin]: https://www.linkedin.com/in/lasalranasinghe/
-[stackoverflow]: https://stackoverflow.com/users/11542679/hawklaz
+My master’s research focused on distributed machine learning, and earlier in my career I delivered BI and analytics solutions in manufacturing environments.
+
+---
+
+### 🛠 Tech Stack
+
+**Data & Analytics**
+- Oracle Cloud Infrastructure (OCI)
+- Oracle Autonomous Database / ADW
+- Oracle Data Integrator (ODI)
+- Oracle Integration Cloud (OIC)
+- Oracle Analytics Cloud
+- Power BI
+
+**Engineering**
+- SQL (advanced)
+- Python
+- Data modelling (logical & dimensional)
+- ETL / ELT pipelines
+
+**Ways of Working**
+- Agile delivery
+- Stakeholder collaboration
+- Production support & platform reliability
+
+---
+
+### 🌱 Outside of work
+
+I enjoy trekking, light hiking, and road trips.
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/lasalranasinghe  
+- StackOverflow: https://stackoverflow.com/users/11542679/hawklaz  
+- Twitter: https://twitter.com/HawkLaZ
