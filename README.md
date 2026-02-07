@@ -61,5 +61,4 @@ I enjoy trekking, light hiking, and road trips.
 ### 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/lasalranasinghe  
-- StackOverflow: https://stackoverflow.com/users/11542679/hawklaz  
-- Twitter: https://twitter.com/HawkLaZ
+- StackOverflow: https://stackoverflow.com/users/11542679/hawklaz
